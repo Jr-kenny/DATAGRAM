@@ -35,3 +35,5 @@ please replace "YOUR_API_KEY" with your actual API key
 
 if it looks like this then it's working fine
 <img width="2790" height="640" alt="image" src="https://github.com/user-attachments/assets/ee917829-8c33-4bef-8087-3ae050cc710a" />
+
+https://x.com/Jrken_ny
